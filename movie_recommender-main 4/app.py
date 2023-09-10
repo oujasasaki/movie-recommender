@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import gensim
-import itertools
+
 st.title('映画レコメンド')
 
 # 映画情報の読み込み
